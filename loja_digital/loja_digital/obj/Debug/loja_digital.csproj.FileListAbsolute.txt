@@ -1,0 +1,46 @@
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\bin\Debug\loja_digital.exe.config
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\bin\Debug\loja_digital.exe
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\bin\Debug\loja_digital.pdb
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.csprojAssemblyReference.cache
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.Form1.resources
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.Properties.Resources.resources
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.csproj.GenerateResource.cache
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.csproj.CoreCompileInputs.cache
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.exe
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.pdb
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.Form2.resources
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.Form3.resources
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.Form4.resources
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.Form5.resources
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.Form6.resources
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.Form7.resources
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.Form8.resources
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\bin\Debug\Google.Protobuf.dll
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\bin\Debug\MySql.Data.dll
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\bin\Debug\Google.Protobuf.xml
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\bin\Debug\MySql.Data.xml
+C:\Users\PSI17F25\Desktop\Nova pasta\loja_digital\loja_digital\obj\Debug\loja_digital.csproj.CopyComplete
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\bin\Debug\loja_digital.exe.config
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\bin\Debug\loja_digital.exe
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\bin\Debug\loja_digital.pdb
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\bin\Debug\Google.Protobuf.dll
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\bin\Debug\MySql.Data.dll
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\bin\Debug\Google.Protobuf.xml
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\bin\Debug\MySql.Data.xml
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.csprojAssemblyReference.cache
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.Form1.resources
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.Form2.resources
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.Form3.resources
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.Form4.resources
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.Form5.resources
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.Form6.resources
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.Form7.resources
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.Form8.resources
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.Properties.Resources.resources
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.csproj.GenerateResource.cache
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.csproj.CoreCompileInputs.cache
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.csproj.CopyComplete
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.exe
+C:\Users\PSI17F25\Desktop\projetozao\loja_digital\loja_digital\obj\Debug\loja_digital.pdb
